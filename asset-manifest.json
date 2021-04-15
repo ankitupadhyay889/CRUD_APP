@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CRUD_APP/static/css/main.bbd96fac.chunk.css",
+    "main.js": "/CRUD_APP/static/js/main.7db77df6.chunk.js",
+    "main.js.map": "/CRUD_APP/static/js/main.7db77df6.chunk.js.map",
+    "runtime-main.js": "/CRUD_APP/static/js/runtime-main.66062277.js",
+    "runtime-main.js.map": "/CRUD_APP/static/js/runtime-main.66062277.js.map",
+    "static/css/2.b0704b7a.chunk.css": "/CRUD_APP/static/css/2.b0704b7a.chunk.css",
+    "static/js/2.40083c41.chunk.js": "/CRUD_APP/static/js/2.40083c41.chunk.js",
+    "static/js/2.40083c41.chunk.js.map": "/CRUD_APP/static/js/2.40083c41.chunk.js.map",
+    "index.html": "/CRUD_APP/index.html",
+    "precache-manifest.c7b8e661003b893f4669323e17df63f4.js": "/CRUD_APP/precache-manifest.c7b8e661003b893f4669323e17df63f4.js",
+    "service-worker.js": "/CRUD_APP/service-worker.js",
+    "static/css/2.b0704b7a.chunk.css.map": "/CRUD_APP/static/css/2.b0704b7a.chunk.css.map",
+    "static/css/main.bbd96fac.chunk.css.map": "/CRUD_APP/static/css/main.bbd96fac.chunk.css.map",
+    "static/js/2.40083c41.chunk.js.LICENSE.txt": "/CRUD_APP/static/js/2.40083c41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66062277.js",
+    "static/css/2.b0704b7a.chunk.css",
+    "static/js/2.40083c41.chunk.js",
+    "static/css/main.bbd96fac.chunk.css",
+    "static/js/main.7db77df6.chunk.js"
+  ]
+}
